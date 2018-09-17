@@ -1,1 +1,3 @@
-# CIS-2168
+# CIS-2168 Data Structures	
+
+Program style organization and design with continued emphasis on the object-oriented design paradigm. Understanding and use of data abstraction through Java classes and class libraries. Understanding and use of the following Abstract Data Types: strings, stacks, queues, priority queues, lists, linked lists, binary trees, heaps, and hash tables. Introduction to expression evaluation and other applications. Introduction to recursion and comparative analysis of searching and sorting algorithms and data structures. Sorting algorithms include insertion sort, mergesort, heapsort, and quicksort. Searching algorithms include binary search, hashing, and Huffman coding.
